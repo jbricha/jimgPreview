@@ -8,3 +8,5 @@ Example of use :
   - $('a.specialClass').jimgPreview({ srcAttr: 'imgSrc' }) : init links with 'specialClass' class to display image preview
 	when the mouse cursor is over it. The src of the image is fetched from 'imgSrc' attribute.
 
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/8cb53998788c707fff97980979e0055b "githalytics.com")](http://githalytics.com/jbricha/jimgPreview)
